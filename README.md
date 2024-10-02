@@ -33,8 +33,3 @@ Before running the project, make sure you have the following installed:
 ```bash
 git clone https://github.com/Dhiraj-231/mern-blog.git
 cd mern-blog
-
-###  Install Dependencies
-for backend
-cd server
-npm install
